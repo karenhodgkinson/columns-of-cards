@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+  background-color: #e2e2e2;
+  line-height: 1.5;
+  font-family: Open Sans, sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-size: 2em;
+}
